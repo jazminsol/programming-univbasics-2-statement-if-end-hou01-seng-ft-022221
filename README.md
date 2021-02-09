@@ -1,3 +1,7 @@
+if <Jaz is hungry>
+if true
+puts "This code runs!"
+end
 # Programming as Conversation 2: Selection with if...end and Statement Modifiers
 
 ## Learning Goals
