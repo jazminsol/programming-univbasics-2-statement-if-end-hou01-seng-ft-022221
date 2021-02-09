@@ -1,4 +1,4 @@
-if (Jaz is hungry)
+
 if true
 puts "This code runs!"
 end
