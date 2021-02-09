@@ -24,6 +24,12 @@ To write a basic `if...end` statement in Ruby, the first line should start with
 ```ruby
 if <something that is either true or false>
 ```
+run_code_inside = true
+puts "Code before if...end"
+if run_code_inside
+puts "code inside"
+end
+puts "Code after if...end"
 
 Following this line, we can add some code that we want to run when the if
 statement is true. This code is conditional - it may or may not run! To let Ruby
