@@ -2,6 +2,9 @@
 if true
 puts "This code runs!"
 end
+if false
+puts "This code does not run. You will not see this in irb."
+end
 # Programming as Conversation 2: Selection with if...end and Statement Modifiers
 
 ## Learning Goals
